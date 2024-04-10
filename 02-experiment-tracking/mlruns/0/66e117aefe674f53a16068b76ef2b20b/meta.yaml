@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/66e117aefe674f53a16068b76ef2b20b/artifacts
+end_time: 1712758536443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66e117aefe674f53a16068b76ef2b20b
+run_name: persistent-mouse-316
+run_uuid: 66e117aefe674f53a16068b76ef2b20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712758527359
+status: 3
+tags: []
+user_id: denys_soloviov

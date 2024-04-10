@@ -1,0 +1,17 @@
+Q1. What's the version that you have?
+Answer: 2.11.3
+
+Q2. What's the size of the saved DictVectorizer file?
+Answer: 154 kB
+
+Q3. What is the value of the max_depth parameter?
+Answer: 10
+
+Q4. What's the best validation RMSE that you got?
+Answer: 2.45
+
+Q5. What is the test RMSE of the best model?
+Answer: 2.185
+
+Q6. What information does the model registry contain about each model?
+Answer: All the above answers are correct
